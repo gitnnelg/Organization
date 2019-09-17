@@ -5,5 +5,6 @@
 - cira.ca (in GD's queue, pending logo)
 - aa.net.uk (in GD's queue, pending logo)
 - lastpresslabel.com (in GD's queue, pending logo)
+- spamteq.com (in GD's queue, pending logo)
 - microsoft.com (pending internal approvals at MSFT)
 - cisco.com (pending internal approvals at CSCO)
