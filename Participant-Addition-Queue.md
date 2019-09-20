@@ -5,5 +5,6 @@
 - aa.net.uk (in GD's queue, pending logo)
 - lastpresslabel.com (in GD's queue, pending logo)
 - spamteq.com (in GD's queue, pending logo)
+- a10networks.com (in GD's queue, pending logo)
 - tcpwave.com (GD sorting logo problem)
 - cisco.com (pending internal approvals at CSCO)
