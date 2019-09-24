@@ -1,11 +1,7 @@
 # Org and Individual Participant Addition Queue
-- noc.org (in GD's queue, pending logo)
-- telefonica.com (in GD's queue, pending logo)
-- cira.ca (in GD's queue, pending logo)
-- aa.net.uk (in GD's queue, pending logo)
+- noc.org (in GD's queue, pending logo) (cleanbrowsing - done)
+- telefonica.com (in GD's queue, pending logo) req sent
 - lastpresslabel.com (in GD's queue, pending logo)
 - spamteq.com (in GD's queue, pending logo)
-- a10networks.com (in GD's queue, pending logo)
 - iwf.org.uk (in GD's queue, pending logo)
-- tcpwave.com (GD sorting logo problem)
 - cisco.com (pending internal approvals at CSCO)
