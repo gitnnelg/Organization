@@ -2,7 +2,6 @@
 
 - telefonica.com (in GD's queue, pending logo)
 - lastpresslabel.com (in GD's queue, pending logo)
-- spamteq.com (in GD's queue, pending logo)
 - iwf.org.uk (in GD's queue, pending logo)
 - cisco.com (pending internal approvals at CSCO)
 
@@ -16,3 +15,6 @@ Logo obtained waiting upload to site
 - EFF (in JL's upload queue)
 - Microsoft (in JL's upload queue)
 - COX (in JL's upload queue)
+- Spamhaus (in JL's upload queue)
+- ATIS (in JL's upload queue)
+
